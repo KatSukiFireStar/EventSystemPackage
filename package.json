@@ -1,0 +1,23 @@
+{
+  "name": "com.katsukifirestar.eventsystem",
+  "displayName": "Event System",
+  "version": "1.0.0",
+  "description": "Event System for unity based on scriptable object and design pattern observer",
+  "author": {
+    "name": "Gonin Flavien",
+    "email": "gonin.flavien@gmail.com"
+  },
+  "unity": "2022.3",
+  "samples": [
+    {
+      "displayName": "Event system sample",
+      "description": "Sample for the event system",
+      "path": "Samples~/EventSytemSample"
+    },
+    {
+      "displayName": "Event system templates",
+      "description": "Unity templates in order to create the button and the event class",
+      "path":  "Samples~/ScriptTemplates"
+    }
+  ]
+}
