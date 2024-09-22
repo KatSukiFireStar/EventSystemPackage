@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace EventSystem.SO
 {
-    public abstract class GenericButtonSO<T> : ButtonSO
+    public abstract class GenericTriggerSO<T> : TriggerSO
     {
         public GenericEventSO<T> events;
         
