@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace EventSystem.SO
 {
-    public abstract class ButtonSO : ScriptableObject
+    public abstract class TriggerSO : ScriptableObject
     {
         private EventSO eventSO;
         
