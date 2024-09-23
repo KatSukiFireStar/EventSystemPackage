@@ -1,7 +1,7 @@
 {
   "name": "com.katsukifirestar.eventsystem",
   "displayName": "Event System",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Event System for unity based on scriptable object and design pattern observer",
   "author": {
     "name": "Gonin Flavien",
